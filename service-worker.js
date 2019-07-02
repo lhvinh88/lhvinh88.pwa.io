@@ -15,12 +15,12 @@ limitations under the License.
 */
 const cacheName = 'cache-v1';
 const precacheResources = [
-  '/',
-  'index.html',
-  'styles/main.css',
-  'images/space1.jpg',
-  'images/space2.jpg',
-  'images/space3.jpg'
+  '/lhvinh88.pwa.io/',
+  '/lhvinh88.pwa.io/index.html',
+  '/lhvinh88.pwa.io/styles/main.css',
+  '/lhvinh88.pwa.io/images/space1.jpg',
+  '/lhvinh88.pwa.io/images/space2.jpg',
+  '/lhvinh88.pwa.io/images/space3.jpg'
 ];
 
 self.addEventListener('install', event => {
